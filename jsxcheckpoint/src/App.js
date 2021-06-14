@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+
 import imageInSrc from "./imageInSrc.png";
 import "./App.css";
 
