@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import imageInSrc from "./imageInSrc.png";
-import "./Style.css";
+import "./App.css";
 
 function App() {
   return (
